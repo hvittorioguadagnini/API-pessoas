@@ -1,4 +1,4 @@
-# teste-tecnico
+# API-Pessoas
 
 ## Instalando dependências
 No terminal: ir para a pasta backend e usar o comando npm install.
